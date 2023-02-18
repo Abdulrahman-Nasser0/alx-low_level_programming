@@ -1,8 +1,7 @@
 #include <stdio.h>
-
 /**
- *main -  this is main function
- *Return - end with zero
+ * main - Entry
+ * Return: Always 0
  */
 int main(void)
 {
